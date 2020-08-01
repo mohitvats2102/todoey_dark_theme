@@ -1,8 +1,6 @@
 # todoey_flutter
 
 A new Flutter application.
-![Screenshot_1596285837](https://user-images.githubusercontent.com/46342546/89102013-dd009180-d422-11ea-87ec-31e71a279bc3.png)
-
 
 ## Getting Started
 
